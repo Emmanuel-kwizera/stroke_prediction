@@ -1,1 +1,1 @@
-# stroke predition
+# stroke prediction
